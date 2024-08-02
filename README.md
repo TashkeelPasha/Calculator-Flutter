@@ -65,8 +65,17 @@ flutter-calculator/
 │   │   └── calculator_screen.dart
 │   ├── logic/
 │   │   └── calculator_logic.dart
+├── linux/
+├── macos/
 ├── test/
+├── LICENSE
+├── README.md
+├── analysis_options.yaml
+├── calculator.gif
+├── calculator.iml
+├── pubspec.lock
 └── pubspec.yaml
+
 ```
 
 ## Contributing
