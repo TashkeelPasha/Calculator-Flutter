@@ -11,7 +11,15 @@ Welcome to the Flutter Calculator App repository! This project showcases a basic
 ## Final APPLICATION
 
 
-<video src='https://github.com/TashkeelPasha/Calculator-Flutter/blob/main/calculator.gif' width=180/>
+
+
+
+https://github.com/user-attachments/assets/8d4ef000-a7aa-4f64-856f-3c7c897987f0
+
+
+
+
+
 
 ## Getting Started
 
