@@ -71,7 +71,6 @@ flutter-calculator/
 ├── LICENSE
 ├── README.md
 ├── analysis_options.yaml
-├── calculator.gif
 ├── calculator.iml
 ├── pubspec.lock
 └── pubspec.yaml
