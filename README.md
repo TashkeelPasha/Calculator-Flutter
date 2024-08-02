@@ -28,19 +28,19 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```bash
    git clone https://github.com/yourusername/flutter-calculator.git
    cd flutter-calculator
-```
+   ```
 2. Install the dependencies:
 
-```bash
+   ```bash
 
-flutter pub get
-```
+   flutter pub get
+   ```
 3. Run the app:
 
-```bash
+   ```bash
 
-flutter run
-```
+   flutter run
+   ```
 ## Project Structure
 ```plaintext
 
@@ -56,7 +56,7 @@ flutter-calculator/
 ├── test/
 └── pubspec.yaml
 ```
-Contributing
+## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements, bug fixes, or suggestions.
 
